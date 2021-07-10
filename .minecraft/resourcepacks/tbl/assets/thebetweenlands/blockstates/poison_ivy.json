@@ -1,0 +1,105 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "thebetweenlands:internal/blank",
+    "custom": {
+      "particle_texture": "thebetweenlands:blocks/poison_ivy"
+    }
+  },
+  "variants": {
+    "up": {
+      "true": {
+        "submodel": {
+          "sub_up": {
+            "model": "thebetweenlands:internal/winter_event",
+            "custom": {
+			  "model_base": "thebetweenlands:block/internal/spook_event",
+              "model_base_data": {
+                "model_base": "thebetweenlands:block/poison_ivy_north",
+                "model_active": "thebetweenlands:block/poison_ivy_north_spook"				
+              },
+              "model_active": "thebetweenlands:block/poison_ivy_north_frosty"
+            },
+            "x": -90
+          }
+        }
+      },
+      "false": { }
+    },
+    "north": {
+      "true": {
+        "submodel": {
+          "sub_north": {
+            "model": "thebetweenlands:internal/winter_event",
+            "custom": {
+			  "model_base": "thebetweenlands:block/internal/spook_event",
+              "model_base_data": {
+                "model_base": "thebetweenlands:block/poison_ivy_north",
+                "model_active": "thebetweenlands:block/poison_ivy_north_spook"				
+              },
+              "model_active": "thebetweenlands:block/poison_ivy_north_frosty"
+            }
+          }
+        }
+      },
+      "false": { }
+    },
+    "east": {
+      "true": {
+        "submodel": {
+          "sub_east": {
+            "model": "thebetweenlands:internal/winter_event",
+            "custom": {
+			  "model_base": "thebetweenlands:block/internal/spook_event",
+              "model_base_data": {
+                "model_base": "thebetweenlands:block/poison_ivy_north",
+                "model_active": "thebetweenlands:block/poison_ivy_north_spook"				
+              },
+              "model_active": "thebetweenlands:block/poison_ivy_north_frosty"
+            },
+            "y": 90
+          }
+        }
+      },
+      "false": { }
+    },
+    "south": {
+      "true": {
+        "submodel": {
+          "sub_south": {
+            "model": "thebetweenlands:internal/winter_event",
+            "custom": {
+			  "model_base": "thebetweenlands:block/internal/spook_event",
+              "model_base_data": {
+                "model_base": "thebetweenlands:block/poison_ivy_north",
+                "model_active": "thebetweenlands:block/poison_ivy_north_spook"				
+              },
+              "model_active": "thebetweenlands:block/poison_ivy_north_frosty"
+            },
+            "y": 180
+          }
+        }
+      },
+      "false": { }
+    },
+    "west": {
+      "true": {
+        "submodel": {
+          "sub_west": {
+            "model": "thebetweenlands:internal/winter_event",
+            "custom": {
+			  "model_base": "thebetweenlands:block/internal/spook_event",
+              "model_base_data": {
+                "model_base": "thebetweenlands:block/poison_ivy_north",
+                "model_active": "thebetweenlands:block/poison_ivy_north_spook"				
+              },
+              "model_active": "thebetweenlands:block/poison_ivy_north_frosty"
+            },
+            "y": 270
+          }
+        }
+      },
+      "false": { }
+    }
+  }
+}

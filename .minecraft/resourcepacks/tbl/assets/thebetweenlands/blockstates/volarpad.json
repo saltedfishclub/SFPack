@@ -1,0 +1,327 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"half=lower": [
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_1",
+					"model_active": "thebetweenlands:block/internal/volarpad_1",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_1_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				}
+			},
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_1",
+					"model_active": "thebetweenlands:block/internal/volarpad_1",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_1_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				},
+				"y": 90
+			},
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_1",
+					"model_active": "thebetweenlands:block/internal/volarpad_1",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_1_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				},
+				"y": 180
+			},
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_1",
+					"model_active": "thebetweenlands:block/internal/volarpad_1",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_1_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				},
+				"y": 270
+			},
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_2",
+					"model_active": "thebetweenlands:block/internal/volarpad_2",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_2_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				}
+			},
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_2",
+					"model_active": "thebetweenlands:block/internal/volarpad_2",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_2_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				},
+				"y": 90
+			},
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_2",
+					"model_active": "thebetweenlands:block/internal/volarpad_2",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_2_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				},
+				"y": 180
+			},
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_2",
+					"model_active": "thebetweenlands:block/internal/volarpad_2",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_2_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				},
+				"y": 270
+			},
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_3",
+					"model_active": "thebetweenlands:block/internal/volarpad_3",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_3_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				}
+			},
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_3",
+					"model_active": "thebetweenlands:block/internal/volarpad_3",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_3_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				},
+				"y": 90
+			},
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_3",
+					"model_active": "thebetweenlands:block/internal/volarpad_3",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_3_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				},
+				"y": 180
+			},
+			{
+				"model": "thebetweenlands:internal/winter_event",
+				"custom": {
+					"model_base": "thebetweenlands:block/internal/volarpad_3",
+					"model_active": "thebetweenlands:block/internal/volarpad_3",
+					"model_active_data": {
+						"texture": "thebetweenlands:blocks/volarpad_3_frosty",
+						"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+					}
+				},
+				"y": 270
+			}
+		],
+		"half=upper": {
+			"model": "thebetweenlands:internal/winter_event",
+			"custom": {
+				"model_base": "thebetweenlands:block/internal/blank",
+				"model_base_data": {
+					"particle_texture": "thebetweenlands:particle/block/volarpad_particle"
+				},
+				"model_active": "thebetweenlands:block/internal/blank",
+				"model_active_data": {
+					"particle_texture": "thebetweenlands:particle/block/volarpad_frosty_particle"
+				}
+			}
+		},
+		"inventory": {
+			"model": "thebetweenlands:internal/volarpad_1",
+			"transform": {
+				"gui": {
+					"rotation": [
+						{
+							"x": 30
+						},
+						{
+							"y": 225
+						},
+						{
+							"z": 0
+						}
+					],
+					"translation": [
+						0,
+						-0.25,
+						0
+					],
+					"scale": [
+						0.25,
+						0.25,
+						0.25
+					]
+				},
+				"ground": {
+					"rotation": [
+						{
+							"x": 0
+						},
+						{
+							"y": 0
+						},
+						{
+							"z": 0
+						}
+					],
+					"translation": [
+						0,
+						-0.15,
+						0
+					],
+					"scale": [
+						0.2,
+						0.2,
+						0.2
+					]
+				},
+				"fixed": {
+					"rotation": [
+						{
+							"x": 0
+						},
+						{
+							"y": 0
+						},
+						{
+							"z": 0
+						}
+					],
+					"translation": [
+						0,
+						0,
+						0
+					],
+					"scale": [
+						0.5,
+						0.5,
+						0.5
+					]
+				},
+				"thirdperson_righthand": {
+					"rotation": [
+						{
+							"x": 0
+						},
+						{
+							"y": 0
+						},
+						{
+							"z": 0
+						}
+					],
+					"translation": [
+						0,
+						0,
+						0.2
+					],
+					"scale": [
+						0.375,
+						0.375,
+						0.375
+					]
+				},
+				"thirdperson_lefthand": {
+					"rotation": [
+						{
+							"x": 0
+						},
+						{
+							"y": 0
+						},
+						{
+							"z": 0
+						}
+					],
+					"translation": [
+						0,
+						0,
+						0.2
+					],
+					"scale": [
+						0.375,
+						0.375,
+						0.375
+					]
+				},
+				"firstperson_righthand": {
+					"rotation": [
+						{
+							"x": 0
+						},
+						{
+							"y": 45
+						},
+						{
+							"z": 0
+						}
+					],
+					"translation": [
+						0,
+						0,
+						0
+					],
+					"scale": [
+						0.34,
+						0.34,
+						0.34
+					]
+				},
+				"firstperson_lefthand": {
+					"rotation": [
+						{
+							"x": 0
+						},
+						{
+							"y": -315
+						},
+						{
+							"z": 0
+						}
+					],
+					"translation": [
+						0,
+						0,
+						0
+					],
+					"scale": [
+						0.34,
+						0.34,
+						0.34
+					]
+				}
+			}
+		}
+	}
+}
