@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:2
 renderClouds:fast
-resourcePacks:["Minecraft-Mod-Language-Modpack.zip", "TheBetweenlands-3.7.3-universal"]
+resourcePacks:["Minecraft-Mod-Language-Modpack.zip"]
 lastServer:
 lang:zh_cn
 chatVisibility:0
