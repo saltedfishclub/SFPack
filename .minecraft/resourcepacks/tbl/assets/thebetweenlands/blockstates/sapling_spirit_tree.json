@@ -1,6 +1,0 @@
-{
-	"variants": {
-		"stage=0": { "model": "thebetweenlands:sapling_spirit_tree" },
-		"stage=1": { "model": "thebetweenlands:sapling_spirit_tree" }
-	}
-}

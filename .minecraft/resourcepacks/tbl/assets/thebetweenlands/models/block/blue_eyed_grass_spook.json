@@ -1,6 +1,0 @@
-{
-	"parent": "block/cross",
-	"textures": {
-		"cross": "thebetweenlands:blocks/blue_eyed_grass_spook"
-	}
-}
