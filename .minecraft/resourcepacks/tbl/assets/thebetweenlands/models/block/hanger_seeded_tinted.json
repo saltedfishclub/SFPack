@@ -1,6 +1,0 @@
-{
-  "parent": "thebetweenlands:block/tinted_cross_1",
-  "textures": {
-    "cross": "thebetweenlands:blocks/hanger_seeded_tinted"
-  }
-}

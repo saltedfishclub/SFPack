@@ -1,6 +1,0 @@
-{
-  "parent": "thebetweenlands:block/cave_moss",
-  "textures": {
-    "moss": "thebetweenlands:blocks/cave_moss_bottom"
-  }
-}

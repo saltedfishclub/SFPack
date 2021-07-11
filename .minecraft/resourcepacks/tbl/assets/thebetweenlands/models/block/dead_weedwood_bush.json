@@ -1,6 +1,0 @@
-{
-	"parent": "block/cross",
-	"textures": {
-		"cross": "thebetweenlands:blocks/dead_weedwood_bush"
-	}
-}
